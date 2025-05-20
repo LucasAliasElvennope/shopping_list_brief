@@ -17,6 +17,10 @@ if (value === "loic"){
     alert("Ce mec est raciste");
     return;
 }
+if (value === "julien"){
+    alert("Jolie hobbie du dimanche soir");
+    return;
+}
 
 const li = document.createElement("li");
 li.textContent = value;
