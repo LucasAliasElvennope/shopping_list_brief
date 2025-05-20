@@ -21,6 +21,10 @@ if (value === "julien"){
     alert("Jolie hobbie du dimanche soir");
     return;
 }
+if (value === "milan"){
+    alert("attention brouteur");
+    return;
+}
 
 const li = document.createElement("li");
 li.textContent = value;
