@@ -9,6 +9,14 @@ btn.addEventListener("click", function() {
     alert("Please enter a value");
     return;
 }
+if (value === "guillaume"){
+    alert("Interdis au Gartic");
+    return;
+}
+if (value === "loic"){
+    alert("Ce mec est raciste");
+    return;
+}
 
 const li = document.createElement("li");
 li.textContent = value;
