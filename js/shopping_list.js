@@ -22,7 +22,7 @@ if (value === "julien"){
     return;
 }
 if (value === "milan"){
-    alert("attention brouteur");
+    alert("Attention ! Brouteur");
     return;
 }
 
