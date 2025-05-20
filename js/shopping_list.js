@@ -6,6 +6,7 @@ const btn2 = document.getElementById("btn2");
 btn.addEventListener("click", function() {
     const value = input.value;
     if (value === ""){
+    alert("Please enter a value");
     return;
 }
 
