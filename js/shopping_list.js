@@ -31,6 +31,10 @@ if (value === "hachemi"){
     alert("Suis le sur Twitch https://m.twitch.tv/persepto/home");
     return;
 }
+if (value === "cyril"){
+    alert("Attention au cany-cross");
+    return;
+}
 
 const li = document.createElement("li");
 li.textContent = value;
