@@ -27,6 +27,10 @@ if (value === "milan"){
     alert("Attention ! Brouteur");
     return;
 }
+if (value === "hachemi"){
+    alert("Suis le sur Twitch https://m.twitch.tv/persepto/home");
+    return;
+}
 
 const li = document.createElement("li");
 li.textContent = value;
