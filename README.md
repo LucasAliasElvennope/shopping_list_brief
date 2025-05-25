@@ -27,7 +27,7 @@ Tu oublies toujours le lait ? Pas de souci, cette app est là pour toi ! 😄
 1. Clone le repo :
 
 ```zsh
-git clone https://github.com/LucasAliasElvennope/shopping_list_brief/tree/main
+git clone https://github.com/LucasAliasElvennope/shopping_list_brief/main
 ```
 
 2. Ouvre le fichier `index.html` dans ton navigateur préféré 🌐
